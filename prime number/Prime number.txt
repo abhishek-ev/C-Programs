@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+int num,mid;
+printf("enter the number:");
+scanf("%d"&num);
+mid=n/2;
+for(i=2;i<=mid;i++)
+{
+if(n%i==0)
+{
+prinf("mot a prime number")
+fkag=1;
+break;
+}
+
+}
+if(flag==0)
+printf("number is prime")
+return 0;
+}
